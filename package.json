@@ -11,7 +11,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "snabbdom": "^0.7.1"
+    "snabbdom": "^0.7.1",
+    "vue": "^2.5.16"
   },
   "devDependencies": {
     "webpack": "^4.14.0",
